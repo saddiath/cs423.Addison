@@ -1,0 +1,15 @@
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\bin\Debug\net6.0\AClassicChessProb.exe
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\bin\Debug\net6.0\AClassicChessProb.deps.json
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\bin\Debug\net6.0\AClassicChessProb.runtimeconfig.json
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\bin\Debug\net6.0\AClassicChessProb.dll
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\bin\Debug\net6.0\AClassicChessProb.pdb
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\AClassicChessProb.csproj.AssemblyReference.cache
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\AClassicChessProb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\AClassicChessProb.AssemblyInfoInputs.cache
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\AClassicChessProb.AssemblyInfo.cs
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\AClassicChessProb.csproj.CoreCompileInputs.cache
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\AClassicChessProb.dll
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\refint\AClassicChessProb.dll
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\AClassicChessProb.pdb
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\AClassicChessProb.genruntimeconfig.cache
+C:\Users\seanp\source\repos\cs423.Addison\AClassicChessProb\AClassicChessProb\obj\Debug\net6.0\ref\AClassicChessProb.dll
