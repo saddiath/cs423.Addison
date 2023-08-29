@@ -72,7 +72,7 @@ namespace Lab3_2_DGraphics
             line.X2 = x1;
             line.Y2 = y1;
             canvas.Children.Add(line);
-            if (depth > depthLimit)
+            if (depth > 1)
             {
                 DrawBinaryTree(canvas, depth - 1,
                                  new Point(x1, y1),
