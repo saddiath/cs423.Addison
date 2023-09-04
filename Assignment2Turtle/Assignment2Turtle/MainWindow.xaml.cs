@@ -74,6 +74,9 @@ namespace Assignment2Turtle
 
                 }
 
+                Debug.WriteLine("arr X" + arrXCounter);
+                Debug.WriteLine("arr Y" + arrYCounter);
+
                 switch (command)
                 {
                     case 1:
@@ -208,7 +211,7 @@ namespace Assignment2Turtle
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //canvas1.Children.Clear();
+            canvas1.Children.Clear();
             command = 0;
             numericString = null;
             foreach (var c in tbLabel.Text)
