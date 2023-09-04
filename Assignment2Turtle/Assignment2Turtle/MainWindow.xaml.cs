@@ -200,8 +200,8 @@ namespace Assignment2Turtle
             line.Stroke = Brushes.Blue;
             line.X1 = pt.X;
             line.Y1 = pt.Y;
-            line.X2 = x1;
-            line.Y2 = y1;
+            //line.X2 = x1;
+            //line.Y2 = y1;
             canvas.Children.Add(line);
             
         }
@@ -212,6 +212,7 @@ namespace Assignment2Turtle
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             canvas1.Children.Clear();
+            treeDepth = 1;
             command = 0;
             numericString = null;
             foreach (var c in tbLabel.Text)
